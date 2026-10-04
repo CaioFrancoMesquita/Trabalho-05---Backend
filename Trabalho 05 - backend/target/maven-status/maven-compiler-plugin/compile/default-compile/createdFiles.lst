@@ -1,0 +1,14 @@
+com\lab\jpa\gestaovagas\exception\GlobalExceptionHandler.class
+com\lab\jpa\gestaovagas\repository\VagaRepository.class
+com\lab\jpa\gestaovagas\GestaoVagasApplication.class
+com\lab\jpa\gestaovagas\exception\ResourceNotFoundException.class
+com\lab\jpa\gestaovagas\mapper\VagaMapper.class
+com\lab\jpa\gestaovagas\dto\VagaResponseDTO.class
+com\lab\jpa\gestaovagas\exception\ErrorResponse.class
+com\lab\jpa\gestaovagas\domain\model\Vaga$VagaBuilder.class
+com\lab\jpa\gestaovagas\config\SwaggerConfig.class
+com\lab\jpa\gestaovagas\service\VagaService.class
+com\lab\jpa\gestaovagas\controller\VagaController.class
+com\lab\jpa\gestaovagas\domain\model\Vaga.class
+com\lab\jpa\gestaovagas\dto\VagaRequestDTO.class
+com\lab\jpa\gestaovagas\mapper\VagaMapperImpl.class
